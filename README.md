@@ -9,4 +9,4 @@ ou bien
 
 python ccam2ontology.py
 
-(la version 54.10 est alors téléchargée depuis le site https://www.ameli.fr/accueil-de-la-ccam/telechargement/index.php.
+(la version 54.10 est alors téléchargée depuis le site https://www.ameli.fr/accueil-de-la-ccam/telechargement/index.php)
