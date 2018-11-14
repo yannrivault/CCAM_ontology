@@ -29,6 +29,9 @@ python ccam2ontology.py
 (the 54.10 release is then downloaded from https://www.ameli.fr/accueil-de-la-ccam/telechargement/index.php)
 
 ## Dépendances/Dependencies :
+
 Ce script nécessite python 2.7, les paquets xlrd, re, urllib, ssl et argparse.
+
+---
 
 This script requires python 2.7, as well as xlrd, re, urllib and argparse packages.
